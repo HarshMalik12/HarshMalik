@@ -122,32 +122,26 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/tarun-sarawgi-33ba7516a/" target="_blank">
+  <a href="https://www.linkedin.com/in/harsh-malik-b22b7022b/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/SVG/linkedin.svg"/></code>
   </a>
-  <a href="https://www.facebook.com/yash.sarawgi.946/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/SVG/facebook.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/tarunsarawgi/?next=%2F" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/SVG/instagram.svg"/></code>
-  </a>
-      
+ 
 </p>
 <br/>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/sarawgitarun" target="_blank">
+  <a href="https://www.hackerrank.com/harshmalik2021" target="_blank">
     <code><img height="60" width="60" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/PNG/hr.png"/></code>
   </a>
 
 
   
 
-  <a href="https://www.codechef.com/users/tarunsarawgi" target="_blank">
+  <a href="https://www.codechef.com/users/harsh123malik" target="_blank">
     <code><img height="60" width="60" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/SVG/cc.svg"/></code>
   </a>
   
-  <a href="https://leetcode.com/tarunsarawgi/" target="_blank">
+  <a href="https://leetcode.com/Harsh_Malik_Coder//" target="_blank">
     <code><img height="60" width="60" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/PNG/lc.png"/></code>
   </a>
 </p>
