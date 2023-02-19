@@ -144,6 +144,10 @@
   <a href="https://leetcode.com/Harsh_Malik_Coder/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/PNG/lc.png"/></code>
   </a>
+  
+  <a href="https://auth.geeksforgeeks.org/user/harshmalik2021/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/PNG/lc.png"/></code>
+  </a>
 </p>
 
 <br/>
