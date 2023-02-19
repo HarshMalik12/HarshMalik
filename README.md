@@ -146,7 +146,7 @@
   </a>
   
   <a href="https://auth.geeksforgeeks.org/user/harshmalik2021/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/PNG/lc.png"/></code>
+    <code><img height="60" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRddISDCwvqRwEvfDwk_AFfgRI2UIFU2x6OfiBCl_lxEQ&s"/></code>
   </a>
 </p>
 
